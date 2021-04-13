@@ -1,0 +1,13 @@
+Jacob Voyles
+Homework 13 - Presidents
+Challenge Level
+
+1. I started with parsing the file and holding the contents of each line in an ArrayList
+
+2. I added extra functionality to add and sort any number similar files, the worst thing is the time complexity having
+   to loop through the array multiple times for the final result
+
+3. I learned a lot about sorting an array of strings and converting sections to integers for easy sorting
+
+4. Next time I would read through the assignment more thoroughly so I wouldn't implement features I don't need like the
+    ability to add multiple files on the command line

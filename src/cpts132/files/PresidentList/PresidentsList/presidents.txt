@@ -1,0 +1,45 @@
+Lincoln	Abraham	3/4/1861	4/15/1865
+Jackson	Andrew	3/4/1829	3/4/1837
+Johnson	Andrew	4/15/1865	3/4/1869
+Obama	Barack	1/20/2009	1/20/2017
+Harrison	Benjamin	3/4/1889	3/4/1893
+Clinton	Bill	1/20/1993	1/20/2001
+Coolidge	Calvin	8/2/1923	3/4/1929
+Arthur	Chester A	9/19/1881	3/4/1885
+Trump	Donald	1/20/2017	incumbant
+Eisenhower	Dwight D	1/20/1953	1/20/1961
+Pierce	Franklin	3/4/1853	3/4/1857
+Roosevelt	Franklin D	3/4/1933	4/12/1945
+Washington	George	4/30/1789	3/4/1797
+Bush	George H W	1/20/1989	1/20/1993
+Bush	George W	1/20/2001	1/20/2009
+Ford	Gerald	8/9/1974	1/20/1977
+Cleveland	Grover	3/4/1885	3/4/1889
+Cleveland	Grover	3/4/1893	3/4/1897
+Truman	Harry S	4/12/1945	1/20/1953
+Hoover	Herbert	3/4/1929	3/4/1933
+Madison	James	3/4/1809	3/4/1817
+Monroe	James	3/4/1817	3/4/1825
+Buchanan	James	3/4/1857	3/4/1861
+Garfield	James A	3/4/1881	9/19/1881
+Polk	James K	3/4/1845	3/4/1849
+Carter	Jimmy	1/20/1977	1/20/1981
+Adams	John	3/4/1797	3/4/1801
+Tyler	John	4/4/1841	3/4/1845
+Kennedy	John F	1/20/1961	11/22/1963
+Adams	John Quincy	3/4/1825	3/4/1829
+Johnson	Lyndon B	11/22/1963	1/20/1969
+Van Buren	Martin	3/4/1837	3/4/1841
+Fillmore	Millard	7/9/1850	3/4/1853
+Nixon	Richard M	1/20/1969	8/9/1974
+Reagan	Ronald	1/20/1981	1/20/1989
+Hayes	Rutherford B	3/4/1877	3/4/1881
+Roosevelt	Theodore	9/14/1901	3/4/1909
+Jefferson	Thomas	3/4/1801	3/4/1809
+Grant	Ulysses S	3/4/1869	3/4/1877
+Harding	Warren G	3/4/1921	8/2/1923
+McKinley	William	3/4/1897	9/14/1901
+Harrison	William Henry	3/4/1841	4/4/1841
+Taft	William Howard	3/4/1909	3/4/1913
+Wilson	Woodrow	3/4/1913	3/4/1921
+Taylor	Zachary	3/4/1849	7/9/1850
